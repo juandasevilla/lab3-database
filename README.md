@@ -157,3 +157,18 @@ INSERT INTO Horario (cursoId, dia, inicio, fin) VALUES
 (6, 'Lunes',     '14:00:00', '16:00:00'),
 (7, 'Martes',    '08:00:00', '10:00:00'),
 (8, 'Miércoles', '10:00:00', '12:00:00');
+
+-- Correos
+INSERT INTO Correo (codigoEstudiante, correo) VALUES
+('1', 'juan.perez@universidad.edu'),
+('2', 'ana.lopez@universidad.edu'),
+('3', 'carlos.martinez@universidad.edu'),
+('4', 'lucia.ramirez@universidad.edu'),
+('5', 'david.garcia@universidad.edu'),
+('5', 'd.garcia5@correo.com'),
+('6', 'maria.hernandez@universidad.edu'),
+('7', 'pedro.torres@universidad.edu'),
+('8', 'elena.sanchez@universidad.edu'),
+('9', 'sofia.vargas@universidad.edu'),
+('10', 'miguel.castro@universidad.edu'),
+('10', 'm.castro10@correo.com');
